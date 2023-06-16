@@ -1,3 +1,8 @@
+"""
+Чтобы работать в PDF-файлами была использована библиотека PyMuPDF
+Для установки нужно прописать в командной строке: pip install PyMuPDF
+После установки PyMuPDF для работы надо импортировать fitz: import fitz
+"""
 import os
 from pprint import pprint
 import fitz
