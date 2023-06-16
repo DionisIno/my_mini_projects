@@ -6,8 +6,8 @@
 import os
 from pprint import pprint
 import fitz
-from tast_read_pdf_file.text_to_dictionary_conversion import get_dictionary
-from tast_read_pdf_file.test_data import data_to_verify
+from task_read_pdf_file.text_to_dictionary_conversion import get_dictionary
+from task_read_pdf_file.test_data import data_to_verify
 
 
 def get_file_path():
