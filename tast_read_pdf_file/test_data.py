@@ -1,0 +1,22 @@
+from collections import OrderedDict
+
+data_to_verify = OrderedDict([('company_name', 'GRIFFON AVIATION SERVICES LLC'),
+                              ('PN', 'tst'),
+                              ('SN', '123123'),
+                              ('DESCRIPTION', 'PART'),
+                              ('LOCATION', '111'),
+                              ('CONDITION', 'FN'),
+                              ('RECEIVER#', '9'),
+                              ('UOM', 'EA'),
+                              ('EXP DATE', '13.04.2022'),
+                              ('PO', 'P101'),
+                              ('CERT SOURCE', 'wef'),
+                              ('REC.DATE', '18.04.2022'),
+                              ('MFG', 'efwfe'),
+                              ('BATCH#', '1'),
+                              ('DOM', '13.04.2022'),
+                              ('REMARK', ''),
+                              ('LOT#', '1'),
+                              ('TAGGED BY', ''),
+                              ('Qty', '1'),
+                              ('NOTES', ['inspection notes'])])
